@@ -19,7 +19,7 @@ namespace Exercicio3
         
         static void Main(string[] args)
         {
-            int[] vetorInteiros = new int[20];
+            int[] vetorInteiros = new int[100];
             for (int i = 0; i < vetorInteiros.Length; i++)
             {
                 Console.Write($"Digite o numero da posicao {i} do vetor: ");
