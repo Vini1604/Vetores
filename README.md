@@ -8,4 +8,4 @@ Escreva um programa que leia dois vetores com 10 elementos cada e gere um tercei
 Escreva um programa que receba do usuário um vetor com 20 valores inteiros e apresente o maior, o menor e suas respectivas posições em que os mesmos foram informados. Caso existam números iguais mostre a posição da primeira ocorrência.
 
 # Exercicio 3
-3 - Escreva um programa que leia um vetor de 100 elementos.O programa deve informar a quantidade de números ímpares existentes no vetor. Os  valores armazenados no vetor serão informados pelo usuário, ou gerados pelo  computador.
+Escreva um programa que leia um vetor de 100 elementos.O programa deve informar a quantidade de números ímpares existentes no vetor. Os  valores armazenados no vetor serão informados pelo usuário, ou gerados pelo  computador.

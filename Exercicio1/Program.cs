@@ -69,25 +69,7 @@ namespace Exercicio1
             ImprimeGrupo(grupo1, "Grupo 1");
             ImprimeGrupo(grupo2, "Grupo 2");
             ImprimeGrupo(uniaoGrupos, "Grupo 1 e 2 Unidos");
-            /* 
-            foreach (var pessoa in grupo1)
-            {
-                Console.WriteLine(pessoa);
-            }
-            /*
-            Console.WriteLine("***********************************");
-            Console.WriteLine("Grupo 1:");
-            for (int i = 0; i < grupo1.Length; i++)
-            {
-                Console.Write($"Digite o nome da pessoa {i + 1}: ");
-                nome = Console.ReadLine();
-                Console.Write($"Digite a idade da pessoa {i + 1}: ");
-                idade = int.Parse(Console.ReadLine());
-                grupo1[i] = new Pessoa(nome, idade);
-            }
-            Console.WriteLine("**********************************");
-            Console.WriteLine();
-            */
+
         }
     }
 }
